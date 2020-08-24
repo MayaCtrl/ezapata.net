@@ -1,0 +1,20 @@
+working-directory
+
+staging area
+
+repository
+------------------
+
+git init
+
+git add
+
+git status
+
+git commit
+
+git push
+
+git pull
+
+git clone
